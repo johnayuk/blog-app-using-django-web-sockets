@@ -1,11 +1,11 @@
-<!-- clone app to your device -->
+ clone app to your device 
 
-<!-- Install Channels  -->
+Install Channels  
 
-<!-- create migrations and run migration -->
+create migrations and run migration 
 
-<!-- create Admin -->
+ create Admin
 
-<!-- runserver -->
+ runserver 
 
 contribute to the project by adding other features 
